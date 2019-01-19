@@ -2,5 +2,5 @@ token=NTE4OTEyOTMxOTU0NDI1ODYz.DuXrYg.IuuEwCROWSMhOjT5_upI7XV5zmc
 owner=440648115817676800 
 prefix=.
 game=.help
-stayinchannel=true
-songinstatus=ture
+stayinchannel=false
+songinstatus=false
